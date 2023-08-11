@@ -4,11 +4,3 @@
 ![image](https://github.com/vfdeclnc/cheap-vpn-recommendation/assets/138665345/e33b74ac-c060-485e-9eab-9f3475713040)  
 ![image](https://github.com/vfdeclnc/cheap-vpn-recommendation/assets/138665345/b798769c-2bc6-4754-9af1-dc0b546e386a)  
 
-
-<style>
-  .cheap-vpn-recommendation img {
-    pointer-events: none;
-  }
-  
-  
-</style>
