@@ -1,6 +1,6 @@
 ## 亏本机场(目前用到的性价比最好的机场)：[https://亏本机场.site](https://knjc.cfd/#/register?code=16g5gLF6)
 
-## 更多机场请移步[https://github.com/vfdeclnc/panda-vpn-pro](https://github.com/vfdeclnc/panda-vpn-pro)
+## 也可以多买几个体验套餐试一试，更多机场请移步[https://github.com/vfdeclnc/panda-vpn-pro](https://github.com/vfdeclnc/panda-vpn-pro)
 
 > 推荐不限时套餐，不限设备，适合大部分人，  
 > 相比VPN一年几百块的价格，这价格就算跑路也还能承受，  
