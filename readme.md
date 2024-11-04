@@ -1,6 +1,6 @@
 如若你喜欢本仓库且不希望与本仓库失联，请点一下右上角的`star`⭐ 并`fork`本仓库。
 
-## 亏本机场(目前用到的性价比最好的机场)：[https://亏本机场.site](https://knjc.cfd/#/register?code=16g5gLF6)
+## 亏本机场(目前用到的性价比比较好的机场)：[https://亏本机场.site](https://knjc.cfd/#/register?code=16g5gLF6)
 
 ## 也可以买几个其他机场的体验套餐试一试对比一下，更多机场请移步 [https://github.com/vfdeclnc/panda-vpn-pro](https://github.com/vfdeclnc/panda-vpn-pro)
 
