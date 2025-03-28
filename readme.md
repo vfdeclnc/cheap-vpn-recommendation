@@ -1,7 +1,7 @@
 如若你喜欢本仓库且不希望与本仓库失联，请点一下右上角的`star`⭐ 并`fork`本仓库。
 
 ## 推荐：亏本机场(目前用到的性价比比较好的机场)：[https://亏本机场.site](https://knjc.cfd/#/register?code=16g5gLF6)
-## 推荐：农夫山泉(目前玩外网游戏在用)：[https://www.nfsq.us](https://www.nfsq.us/#/register?code=GwZy7XwK)
+## 推荐：农夫山泉【全部升级专线】(目前玩外网游戏在用)：[https://www.nfsq.us](https://www.nfsq.us/#/register?code=GwZy7XwK) 2025/3/27 全部升级专线，价格小涨了一点
 ## [推荐：]()  非专业玩家可试试，机场不能代替加速器，专业玩家绕行
 
 ## 也可以买几个其他机场的体验套餐试一试对比一下，更多机场请移步 [https://github.com/vfdeclnc/panda-vpn-pro](https://github.com/vfdeclnc/panda-vpn-pro)
