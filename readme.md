@@ -1,12 +1,11 @@
 如若你喜欢本仓库且不希望与本仓库失联，请点一下右上角的`star`⭐ 并`fork`本仓库。
 
 ## 推荐：亏本机场【主打性价比】：[https://亏本机场.site](https://knjc.cfd/#/register?code=16g5gLF6)
-## 推荐：农夫山泉【专线延迟低】：[https://www.nfsq.us](https://www.nfsq.us/#/register?code=GwZy7XwK) 
 
 **也可以买几个其他机场的体验套餐试一试对比一下**  
 **更多机场请移步 [https://github.com/vfdeclnc/panda-vpn-pro](https://github.com/vfdeclnc/panda-vpn-pro)**
 
-> **推荐购买最便宜套餐先体验，觉得可以再买不限时套餐，不限设备，不必担心过期，随时使用，适合大部分人**，  
+> **推荐不限时套餐，不限设备，不必担心过期，随时使用，适合大部分人**，  
 > 相比VPN一年几百块的价格，这价格就算跑路也还能承受，  
 > 套餐不可叠加，快到期或快用完的前几天再续费  
 > ！！！！官网被Q, 所以不要等用完再续费！！！！
