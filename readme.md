@@ -3,7 +3,7 @@
 ## 推荐：亏本机场【主打性价比】：[https://亏本机场.site](https://knjc.cfd/#/register?code=16g5gLF6)
 
 **也可以买几个其他机场的体验套餐试一试对比一下**  
-**更多机场请移步 [https://github.com/vfdeclnc/panda-vpn-pro](https://github.com/vfdeclnc/panda-vpn-pro)**
+**更多机场请移步 [https://github.com/vfdeclnc/cheap-vpn-airport](https://github.com/vfdeclnc/cheap-vpn-airport)**
 ---
 **友情推荐：[免费影视浏览器扩展](https://chromewebstore.google.com/detail/kk-player/pegiockicjmdnkjbnppeeakeogdkegac?hl=zh-CN&utm_source=https://github.com/vfdeclnc/panda-vpn-pro)**
 ---
